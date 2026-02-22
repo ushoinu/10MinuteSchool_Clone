@@ -141,7 +141,7 @@ body{
 .hero{
     margin-top: 66px;
     background-color: rgb(0, 0, 0);
-    background-image: url(/image/images/hero_bg_1.png);
+    background-image: url(https://i.postimg.cc/wjhB6vTQ/hero_bg_1.png);
     height: 90vh;
     width: 100vw;
     background-size: 100% 100%;
@@ -149,7 +149,7 @@ body{
 .relative{
     height: 90vh;
     width: 100vw;
-    background-image: url(/image//images/hero_bg_2.png);
+    background-image: url(https://i.postimg.cc/FHjK9RsT/hero_bg_2.png);
     background-size:cover ;
     display: flex;
     justify-content: center;
